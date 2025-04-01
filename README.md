@@ -1,7 +1,7 @@
 # 🛡️ Dean Dunbar
 *I’ve been breaking systems and building tools since before I knew what infosec was. Still learning, still pushing, still having fun.*
 
-**Offensive Security Lead (Red Team) at Gong**  
+**Offensive Security**  
 Entrepreneur • Hacker • Blockchain Developer
 
 ### 👋 About Me
