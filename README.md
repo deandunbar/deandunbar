@@ -13,8 +13,8 @@ I've got a decade of experience breaking high-value systems and emulating real-w
 
 Here are a few highlights from my [full portfolio](https://github.com/deandunbar/portfolio):
 
-- **[ETHstorageDump](https://github.com/deandunbar/Web3sploit)** – A simple python tool to help dump memory slots from any deployed EVM compatible smart contracts..  
-- **[Vanity Walk](https://github.com/HackingWeb3/ETHstorageDump/blob/main/README.md)** – Ethereum vanity address generator in Go.  
+- **[ETHstorageDump](https://github.com/HackingWeb3/ETHstorageDump/)** – A simple python tool to help dump memory slots from any deployed EVM compatible smart contracts..  
+- **[Vanity Walk](https://github.com/HackingWeb3/vanity-walk)** – Ethereum vanity address generator in Go.  
 - **[MoneroDice-WalletGen](https://github.com/Monero-HackerIndustrial/MoneroDice-WalletGen)** - Monero Diceware seed generator
 - **[Ethernaut Solutions  Solutions Repo](https://github.com/HackingWeb3/EthernautSolutions)** -Malicious smart contract code as solutions for the Ethernauts CTF.
 - **[IRL-Protocol](https://github.com/deandunbar/IRL-Protocol)** – NFT vault with offline proof-of-ownership.  
