@@ -11,7 +11,7 @@ I've got a decade of experience breaking high-value systems and emulating real-w
 ---
 ### 🔧 Featured Projects
 
-Here are a few highlights from my [full portfolio](https://github.com/deandunbar/portfolio):
+Here are a few highlights from my [full portfolio](https://github.com/deandunbar/MyPortfolio):
 
 - **[KeySilence](https://github.com/HackerIndustrial-Tooling/SilentSuite/blob/main/key_silence/README.md)** - silently unlocks macOS Keychain and extracts Chrome Safe Storage credentials using native macOS APIs with no security binary calls—bypassing typical EDR detection techniques.
 - **[C2go](https://github.com/HackerIndustrial-Tooling/C2go)** - A very simple c2 in golang with matching cross platform agent. Made for quick remote testing during agent development.
