@@ -13,6 +13,8 @@ I've got a decade of experience breaking high-value systems and emulating real-w
 
 Here are a few highlights from my [full portfolio](https://github.com/deandunbar/portfolio):
 
+- **[KeySilence](https://github.com/HackerIndustrial-Tooling/SilentSuite/blob/main/key_silence/README.md)** - silently unlocks macOS Keychain and extracts Chrome Safe Storage credentials using native macOS APIs with no security binary calls—bypassing typical EDR detection techniques.
+- **[C2go](https://github.com/HackerIndustrial-Tooling/C2go)** - A very simple c2 in golang with matching cross platform agent. Made for quick remote testing during agent development.
 - **[ETHstorageDump](https://github.com/HackingWeb3/ETHstorageDump/)** – A simple python tool to help dump memory slots from any deployed EVM compatible smart contracts..  
 - **[Vanity Walk](https://github.com/HackingWeb3/vanity-walk)** – Ethereum vanity address generator in Go.  
 - **[MoneroDice-WalletGen](https://github.com/Monero-HackerIndustrial/MoneroDice-WalletGen)** - Monero Diceware seed generator
